@@ -1,11 +1,7 @@
-# Pure JS SPA Poc
+# nelsonserpa.com
 
-Available at https://nelsonserpa.com
+This used to be a web page implemented using a client-side rendering framework I built from scratch using only JavaScript.
 
-I pursued learning how complex tasks are handled underneath by using as little frameworks as possible. As a tradeoff, there's much to improve in performance and security.
+If you're interested in that, check out the 'legacy' folder.
 
-The frontend runs a SPA in pure HTML/CSS/Js through Stateful MVC Components. Routes are handled through history api. Backend runs in Node.
-
-The deploy was manually configured in a VPS using Nginx as a reverse proxy, which is fully documented in the [my blog](https://nelsonserpa.com/blog/infra_devops/1)
-
-The project is still under construction. 
+Now, it's just static HTML blog. 
